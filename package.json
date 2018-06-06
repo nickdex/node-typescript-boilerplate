@@ -23,6 +23,7 @@
     "body-parser": "^1.18.2",
     "dotenv": "^4.0.0",
     "express": "^4.16.2",
+    "morgan": "^1.9.0",
     "pug": "^2.0.0-rc.4",
     "tslib": "~1.9.2",
     "winston": "^2.4.2"
@@ -34,8 +35,10 @@
     "@types/feathersjs__express": "^1.1.2",
     "@types/feathersjs__feathers": "^3.0.0",
     "@types/jest": "~22.2.3",
+    "@types/morgan": "^1.7.35",
     "@types/node": "~8.10.18",
     "@types/shelljs": "^0.7.7",
+    "@types/winston": "^2.3.9",
     "jest": "~23.1.0",
     "shelljs": "^0.8.1",
     "ts-jest": "~22.4.6",
